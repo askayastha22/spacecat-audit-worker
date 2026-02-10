@@ -1,3 +1,10 @@
+# [1.310.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.309.0...v1.310.0) (2026-02-10)
+
+
+### Features
+
+* **health-check:** add Ahrefs and base URL resolution checks ([#1959](https://github.com/adobe/spacecat-audit-worker/issues/1959)) ([4c9f895](https://github.com/adobe/spacecat-audit-worker/commit/4c9f895d4b0503a7fd2134e5314b9fb7ddcf6817))
+
 # [1.309.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.308.0...v1.309.0) (2026-02-10)
 
 
