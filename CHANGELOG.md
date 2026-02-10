@@ -1,3 +1,11 @@
+## [1.311.1](https://github.com/adobe/spacecat-audit-worker/compare/v1.311.0...v1.311.1) (2026-02-10)
+
+
+### Bug Fixes
+
+* **deps:** update adobe fixes ([#1965](https://github.com/adobe/spacecat-audit-worker/issues/1965)) ([48af3bf](https://github.com/adobe/spacecat-audit-worker/commit/48af3bfbd5dcb3d774586fec93208b2e658870d6))
+* Empty security redundant opportunities created ([#1948](https://github.com/adobe/spacecat-audit-worker/issues/1948)) ([990f302](https://github.com/adobe/spacecat-audit-worker/commit/990f3027fa026446e87f34fbf81618a3904cee68))
+
 # [1.311.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.310.0...v1.311.0) (2026-02-10)
 
 
