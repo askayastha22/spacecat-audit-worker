@@ -1,3 +1,10 @@
+# [1.309.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.308.0...v1.309.0) (2026-02-10)
+
+
+### Features
+
+* added logic to mark old suggestions as oudated for alt-text audit ([#1949](https://github.com/adobe/spacecat-audit-worker/issues/1949)) ([2d40a2c](https://github.com/adobe/spacecat-audit-worker/commit/2d40a2c3007846d8b0dca9ec0d8baeb66aff3acf))
+
 # [1.308.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.307.1...v1.308.0) (2026-02-10)
 
 
