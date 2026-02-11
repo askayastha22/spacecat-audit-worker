@@ -1,3 +1,10 @@
+# [1.312.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.311.1...v1.312.0) (2026-02-11)
+
+
+### Features
+
+* add batching for internal links crawl detection to prevent Lamb… ([#1874](https://github.com/adobe/spacecat-audit-worker/issues/1874)) ([45d53dc](https://github.com/adobe/spacecat-audit-worker/commit/45d53dc6649e8065353bc7707cdaf19895c8e7ee))
+
 ## [1.311.1](https://github.com/adobe/spacecat-audit-worker/compare/v1.311.0...v1.311.1) (2026-02-10)
 
 
