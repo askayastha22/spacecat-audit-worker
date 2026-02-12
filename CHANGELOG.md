@@ -1,3 +1,10 @@
+## [1.313.3](https://github.com/adobe/spacecat-audit-worker/compare/v1.313.2...v1.313.3) (2026-02-12)
+
+
+### Bug Fixes
+
+* mystique call payload structure for sec-vuln oppty ([#1966](https://github.com/adobe/spacecat-audit-worker/issues/1966)) ([f942afd](https://github.com/adobe/spacecat-audit-worker/commit/f942afd90f32f2331cccab2f1b7696f9679759a0))
+
 ## [1.313.2](https://github.com/adobe/spacecat-audit-worker/compare/v1.313.1...v1.313.2) (2026-02-12)
 
 
