@@ -1,3 +1,10 @@
+# [1.314.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.313.3...v1.314.0) (2026-02-12)
+
+
+### Features
+
+* split geo-brand-presence-free into 18 staggered slots ([#1979](https://github.com/adobe/spacecat-audit-worker/issues/1979)) ([adbc4e3](https://github.com/adobe/spacecat-audit-worker/commit/adbc4e399144b1f96939ddec19db4109fb63657e))
+
 ## [1.313.3](https://github.com/adobe/spacecat-audit-worker/compare/v1.313.2...v1.313.3) (2026-02-12)
 
 
