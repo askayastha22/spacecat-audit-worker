@@ -1,3 +1,10 @@
+# [1.317.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.316.0...v1.317.0) (2026-02-13)
+
+
+### Features
+
+* limiting no of links reported which are broken ([#1983](https://github.com/adobe/spacecat-audit-worker/issues/1983)) ([12ed61f](https://github.com/adobe/spacecat-audit-worker/commit/12ed61fd5beeb59243879f4a35eb4e8685fcc3cf))
+
 # [1.316.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.315.0...v1.316.0) (2026-02-13)
 
 
