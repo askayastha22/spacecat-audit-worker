@@ -1,3 +1,10 @@
+## [1.318.5](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.4...v1.318.5) (2026-02-13)
+
+
+### Bug Fixes
+
+* Add additional logging for the sitemap audit ([#1989](https://github.com/adobe/spacecat-audit-worker/issues/1989)) ([97609b7](https://github.com/adobe/spacecat-audit-worker/commit/97609b7eb46da65fc6b75b38cf0999798dfea7f8))
+
 ## [1.318.4](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.3...v1.318.4) (2026-02-13)
 
 
