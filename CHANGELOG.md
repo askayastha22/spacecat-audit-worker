@@ -1,3 +1,10 @@
+## [1.318.4](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.3...v1.318.4) (2026-02-13)
+
+
+### Bug Fixes
+
+* [SITES-40371] canonical - self-reference check: ignore domain, query, hash ([#1982](https://github.com/adobe/spacecat-audit-worker/issues/1982)) ([7605de6](https://github.com/adobe/spacecat-audit-worker/commit/7605de6f11516a358eb6673bc717716f92af2eb7))
+
 ## [1.318.3](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.2...v1.318.3) (2026-02-13)
 
 
