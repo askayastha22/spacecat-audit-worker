@@ -1,3 +1,10 @@
+## [1.318.2](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.1...v1.318.2) (2026-02-13)
+
+
+### Bug Fixes
+
+* passing selector for readability to mystique message ([#1985](https://github.com/adobe/spacecat-audit-worker/issues/1985)) ([1c3e6d1](https://github.com/adobe/spacecat-audit-worker/commit/1c3e6d1b837703da672bd48e2abb4e24f54eb2f5))
+
 ## [1.318.1](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.0...v1.318.1) (2026-02-13)
 
 
