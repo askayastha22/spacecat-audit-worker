@@ -1,3 +1,10 @@
+# [1.318.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.317.0...v1.318.0) (2026-02-13)
+
+
+### Features
+
+* extend geo-brand-presence-free splits from 18 to 23 ([#1981](https://github.com/adobe/spacecat-audit-worker/issues/1981)) ([befc44b](https://github.com/adobe/spacecat-audit-worker/commit/befc44b57ee329b4ff10fb3f7849368b7f01eb4a))
+
 # [1.317.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.316.0...v1.317.0) (2026-02-13)
 
 
