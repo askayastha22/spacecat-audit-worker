@@ -1,3 +1,10 @@
+# [1.319.0](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.7...v1.319.0) (2026-02-17)
+
+
+### Features
+
+* Adding auto-detect for publish during broken backlinks audits run ([#1999](https://github.com/adobe/spacecat-audit-worker/issues/1999)) ([b24e8fe](https://github.com/adobe/spacecat-audit-worker/commit/b24e8fe747df63a0108f8577e7bb87aad91f6ad0)), closes [data-access#syncSuggestions](https://github.com/data-access/issues/syncSuggestions)
+
 ## [1.318.7](https://github.com/adobe/spacecat-audit-worker/compare/v1.318.6...v1.318.7) (2026-02-17)
 
 
